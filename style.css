@@ -187,6 +187,6 @@ h2 {
 
 @media screen and (max-width: 1000px) {
     .b-img1 {
-        width: 90%;
+        width: auto;
     }
 }
